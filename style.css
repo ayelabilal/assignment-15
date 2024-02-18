@@ -1,7 +1,206 @@
 .navbar1{
     background-color: black;
-    color: white !important;;
-    /* font-size: 16px; */
-    /* word-spacing: 30px; */
+    color: rgb(153, 145, 145);
+    font-size: 14px;
+    word-spacing: 30px;
+    position: sticky;
     
+}
+.sectionA{
+    flex-basis: 100%;
+    height: 400px;
+background-color: black;
+background-image: url(images/image1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+color:white;
+text-align: center;
+padding-top: 30px;
+}
+.learn{
+    color:rgb(28, 130, 164);
+    font-size: 22px;
+}
+.sectionB{
+    flex-basis: 100%;
+    height: 600px;
+    margin-top: 20px;
+    color:black;
+    font-size: 22px;
+    text-align: center;
+    background-image: url(images/images2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.learn1{
+    color:rgb(26, 24, 147);
+    font-size: 22px;
+}
+.sectionC{
+    flex-basis: 100%;
+    height:860px;
+    margin-top: 10px;
+    background-image: url(images/image3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.card1{
+    height: 400px;
+    margin-top: 10px;
+    background-image: url(images/image4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+}
+.sectionD{
+    width: 100%;
+}
+.watch{
+    font-size: 28px;
+    font-weight: 500;
+}
+.series{
+    color: red;
+font-size: 14px;}
+
+.smart{
+    font-size: 14px;
+}
+.card2{
+    background-image: url(images/image5.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    height: 400px;
+    margin-top: 10px;
+
+}
+.mac{
+    color: black;
+
+}
+.mind{
+    color: black;
+    font-size: 22px;
+}
+.sectionE{
+    width: 100%;
+}
+.card3{background-image: url(images/image5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    height: 400px;
+    margin-top: 20px;
+    padding-top: 40px;
+}
+.ipad{
+    color: black;
+    
+}
+.ipad1{
+    color: black;
+    font-size: 18px;
+}
+.card4{
+    background-image: url(images/image6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* color: white; */
+    text-align: center;
+    height: 400px;
+    margin-top: 10px;
+}
+.card5{
+    background-image: url(images/image7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 400px;
+    margin-top: 10px;
+}
+.cards{
+    font-size: 22px;
+    text-align: center;
+}
+.card6{
+    background-image: url(images/image8.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+background-position: center;
+    height: 400px;
+    margin-top: 10px;
+}
+.trade{
+    text-align: center;
+    font-size: 22px;
+}
+.see{
+    color:rgb(31, 66, 222);
+}
+.last{
+    width: 100%;
+    height: 1100px;
+    background-color:rgba(235, 233, 233, 0.749);
+    
+}
+.one{
+    text-align: center;
+    color: gray;
+    padding: 20px;
+}
+
+.available{
+    color: gray;
+    padding-left: 25px;
+
+}
+.to{ color: gray;
+    padding-left: 25px;
+
+}
+.if{ color: gray;
+    padding-left: 25px;
+
+}
+.learn1{ color: gray;
+    padding-left: 25px;
+
+}
+.a{ color: gray;
+    padding-left: 25px;
+}
+.lists{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: gray;
+    font-size: 14;
+    list-style: none;
+}
+.black{
+    color: black;
+}
+.finds{
+    color: rgb(32, 32, 207);
+}
+.more{
+    padding-left: 20px;
+    color: gray;
+    font-size: 14;
+}
+.united{
+    color: gray;
+    font-size: 14;
+    position: absolute;
+    right: 70px;
 }
